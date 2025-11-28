@@ -1,6 +1,4 @@
+
 {
-  "github": {
-    "silent": true,
-    "autoJobCancelation": true
-  }
+  "installCommand": "npm install"
 }
